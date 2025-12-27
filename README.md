@@ -1,7 +1,7 @@
 # 🚀 Data Analytics Project: From Raw Data to Business Insights
 
 ## 🧠 Overview
-This end-to-end data analytics project transforms raw data into actionable insights using Python, SQL, Power BI, and Gamma. It showcases the complete analytics lifecycle — from data ingestion and cleaning to dashboarding and executive-level storytelling.
+This end-to-end data analytics project transforms raw data into actionable insights using Python, SQL, Excel and Power BI. It showcases the complete analytics lifecycle — from data ingestion and cleaning to dashboarding and executive-level storytelling.
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, Seaborn, Matplotlib) — for data loading, cleaning, and EDA  
