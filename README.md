@@ -40,3 +40,8 @@ This end-to-end data analytics project transforms raw data into actionable insig
 - Built in Power BI  
 - Includes dynamic filters, KPIs, trend analysis, and category-wise breakdowns
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 9, 2026, 12_18_06 PM" src="https://github.com/user-attachments/assets/9a882d1c-9bcf-49ce-8e68-37663acc0290" />
+
+
+
