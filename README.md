@@ -11,7 +11,7 @@ This end-to-end data analytics project transforms raw data into actionable insig
 - Jupyter Notebook / VS Code — development environment
 
 ## 🔧 Workflow Steps
-
+  
 1. **Data Loading**
    - Imported CSV using Pandas  
    - Inspected schema, data types, and null values
