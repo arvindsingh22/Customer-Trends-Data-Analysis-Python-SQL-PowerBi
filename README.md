@@ -18,7 +18,7 @@ This end-to-end data analytics project transforms raw data into actionable insig
 
 2. **Exploratory Data Analysis (EDA)**  
    - Uncovered trends, patterns, and correlations
-   - Visualized key metrics using charts and plots 
+   - Visualized key metrics using charts and plots   
   
 3. **Data Cleaning**
    - Removed duplicates, handled missing values
