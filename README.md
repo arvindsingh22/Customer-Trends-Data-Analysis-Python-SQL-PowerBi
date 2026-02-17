@@ -9,7 +9,7 @@ This end-to-end data analytics project transforms raw data into actionable insig
 - Power BI — for interactive dashboards and data visualization  
 - Gamma — for creating a clean, executive-style presentation  
 - Jupyter Notebook / VS Code — development environment  
-
+ 
 ## 🔧 Workflow Steps
   
 1. **Data Loading**
