@@ -16,7 +16,7 @@ This end-to-end data analytics project transforms raw data into actionable insig
    - Imported CSV using Pandas  
    - Inspected schema, data types, and null values
 
-2. **Exploratory Data Analysis (EDA)**  
+2. **Exploratory Data Analysis (EDA)**    
    - Uncovered trends, patterns, and correlations
    - Visualized key metrics using charts and plots   
   
