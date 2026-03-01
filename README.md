@@ -4,7 +4,7 @@
 This end-to-end data analytics project transforms raw data into actionable insights using Python, SQL, Excel and Power BI. It showcases the complete analytics lifecycle — from data ingestion and cleaning to dashboarding and executive-level storytelling.
    
 ## 🛠 Tools & Technologies
-- Python (Pandas, Seaborn, Matplotlib) — for data loading, cleaning, and EDA  
+- Python (Pandas, Seaborn, Matplotlib) — for data loading, cleaning, and EDA   
 - SQL (PostgreSQL / MySQL / SQL Server) — for querying and data transformation  
 - Power BI — for interactive dashboards and data visualization  
 - Gamma — for creating a clean, executive-style presentation  
